@@ -18,7 +18,7 @@ h1 {
 }
 
 .one {
-    background-color: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0), rgb(0, 0, 255));
+    background-color: linear-gradient(90deg, rgb(255, 0, 0)75%, rgb(0, 255, 0), rgb(0, 0, 255));
 }
 
 .green {

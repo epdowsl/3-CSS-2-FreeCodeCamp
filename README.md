@@ -43,6 +43,8 @@ Este es otro formato para representa colores en CSS y su forma de presentarse lo
 
 <h6>Un ejemplo</h6>
 ```
+* {
 background-color: hsl(240, 100%, 50%) /* Color azul */
+}
 ```
 

@@ -86,7 +86,7 @@ elemento {
     <p>Su sintesis es el siguiente:</p>
   
 ```
-box-shadow: offsetX offsetY color;
+box-shadow: offsetX offsetY blurRadius spreadRadius color;
 ```
 
   
